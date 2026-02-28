@@ -1,0 +1,1 @@
+# chatbot-settings-for-weekly-mail-report-tool
